@@ -1,0 +1,4 @@
+name: Leanin
+version: '${version}'
+main: fasabi.leanin.Leanin
+api-version: 1.19
